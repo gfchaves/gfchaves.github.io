@@ -5,7 +5,7 @@
 Some facts about me:
 
 - 💻 I’m currently working on a big Azure integration service project at [Codit](https://codit.eu)
-- ✍️ I blog at https://gchaves.net
+- ✍️ I blog at [https://gchaves.net](https://gchaves.net)
 - 🐦 I'm on Twitter at https://twitter.com/gchaves
 - 👯 I’m looking to collaborate on [Azure API Management](https://github.com/Azure/API-Management)
 - 💬 Ask me about software architecture, Azure cloud, and aircrafts metaphors
